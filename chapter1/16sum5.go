@@ -9,4 +9,3 @@ func main() {
 	fmt.Print("Enter second number: ")
 	fmt.Scan(&num2)
 	fmt.Println("Sum:", num1+num2)
-}
